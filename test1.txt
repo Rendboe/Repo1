@@ -1,1 +1,7 @@
-change 1
+Git and GitHub Beginner Tutorial 1 - Introduction:
+
+https://youtu.be/-U-eUHI6euM
+
+Git and GitHub Beginner Tutorial 2 - Getting started - Install Git (mac):
+
+https://youtu.be/0Icla6TVNNo
